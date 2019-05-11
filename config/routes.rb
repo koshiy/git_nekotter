@@ -1,3 +1,3 @@
 Rails.application.routes.draw do
-  rout 'tweets#index'
+  root 'tweets#index'
 end
